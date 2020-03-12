@@ -1,0 +1,113 @@
+<document xml:lang="vie" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>2282</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="vie"/>
+    </multilingual>
+    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_vietnamesisk_informasjon.pdf</origFileName>
+    <parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/>
+    <parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/>
+    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/>
+    <parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/>
+    <parallel_text xml:lang="sma" location="sorsamisk.pdf"/>
+    <parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/>
+    <parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/>
+    <parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/>
+    <parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/>
+    <parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/>
+    <parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/>
+    <parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/>
+    <parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/>
+    <parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Dịch vụ giáo dục – tâm lý</p>
+    <p xml:lang="nob">Dịch vụ giáo dục – tâm lý (PP-tjenesten) là cơ quan chuyên môn và cố vấn khi nói về việc cải thiện, học hỏi và tạo thích thú cho trẻ em trong tuổi cưỡng bách đi học và học sinh ở trường cơ sở và trung học phổ thông/ trường nghề. Dịch vụ giáo dục – tâm lý còn giúp cho người lớn có nhu cầu học chương trình giáo dục cơ sở. Công việc của Dịch vụ giáo dục – tâm lý<em type="italic"> </em>được </p>
+    <p xml:lang="nob">ghi trong luật giảng dạy. Dịch vụ giáo dục – tâm lý là nguồn nhân lực chuyên môn đối với các vườn trẻ/ trường học để tạo điều kiện thuận lợi cho việc giảng dạy tốt hơn đối với những học sinh có các nhu cầu đặc biệt.</p>
+    <p xml:lang="nob">Dịch vụ giáo dục – tâm lý (PP-tjenesten)</p>
+    <p type="listitem" xml:lang="nob">•  có thể góp ý và hướng dẫn cho các vườn trẻ và trường học về sự lãnh đạo giáo dục trong các nhóm và môi trường học hành  •  giúp đỡ các trường học trong việc cải thiện khả năng và tổ chức • đảm trách việc soạn thảo thẩm định chuyên môn theo yêu cầu của luật giảng dạy, và góp ý hướng dẫn vườn trẻ và trường học về việc tạo điều kiện thuận lợi cho những trẻ em và học sinh có nhu cầu cần đến  • là dịch vụ của công xã theo luật định, căn cứ cứ theo luật giảng dạy điều 5-6. Dịch vụ có thể được tổ chức xuyên qua ranh giới của các công xã. Các công xã và công xã tỉnh có thể có những dịch vụ chung •  có bổn phận bảo mật: mọi tin tức thu thập được, sẽ được lưu trữ trong một tập hồ sơ</p>
+    <p xml:lang="nob">riêng theo sự hướng dẫn của Nha thanh tra các dữ kiện  • là cơ quan chuyên môn của công xã/ công xã tỉnh khi nói về việc thẩm định các quyền</p>
+    <p xml:lang="nob">lợi được ghi trong luật giảng dạy</p>
+    <p xml:lang="nob">Công xã và công xã tỉnh thu thập những lời góp ý của Dịch vụ tâm lý – giáo dục trong những vụ dưới đây:</p>
+    <p type="listitem" xml:lang="nob">•  giúp đỡ sư phạm đặc biệt trước tuổi cưỡng bách đi học (điều 5-7)  • giảng dạy đặc biệt tại trường (điều 5-1) và dành cho người lớn cần học chương trình giáo dục cơ sở (điều 4a-2)</p>
+    <p type="listitem" xml:lang="nob">• nhập học sớm (điều 2-1, đoạn 3)</p>
+    <p type="listitem" xml:lang="nob">•  hoãn việc nhập học (điều 2-1, đoạn 3)  • miễn trừ bổn phận đi học (điều 2-1, đoạn 4)  • việc học bằng ngôn ngữ dấu hiệu trước tuổi cưỡng bách đi học và ở trường cơ sở (điều</p>
+    <p xml:lang="nob">2-6) và ở trường trung học phổ thông/ trường nghề (điều 3-9) •  việc học bằng chữ nổi dành cho người khiếm thị và bằng nhiều phương pháp khác ở trường cơ sở (điều 2-14) và ở trường trung học phổ thông/ trường nghề (điều 3-10) • việc thu nhận theo diện đặc biệt khi vào trường trung học phổ thông/ trường nghề</p>
+    <p xml:lang="nob">(điều 3-1, đoạn 6)</p>
+    <p type="listitem" xml:lang="nob">• thời gian học được nới rộng ở trường trung học phổ thông/ trường nghề (điều 3-1,   đoạn 5)</p>
+    <p xml:lang="nob">Nhiệm vụ</p>
+    <p xml:lang="nob">Dịch vụ giáo dục – tâm lý tìm hiểu, góp ý và hướng dẫn về trẻ em, thanh thiếu niên và người lớn gặp những thử thách có thể đem lại hậu quả trong việc học hành. Những thử thách đó là</p>
+    <p type="listitem" xml:lang="nob">• khó khăn về ngôn ngữ và cách nói  • khó khăn tổng quát về học hành hoặc khó khăn trong các môn học   • khó khăn về cách đọc và viết  • khó khăn về môn toán  • khó khăn về học hành ở môn học không dùng đến lời nói  • khó khăn trong việc tập trung  • khó khăn về giao tiếp và tình cảm  • khó khăn về cách cư xử  • khó khăn về thị giác và thính giác</p>
+    <p xml:lang="nob">Sự liên lạc tiếp xúc</p>
+    <p xml:lang="nob">Những học sinh trên 15 tuổi, phụ huynh, vườn trẻ, trường học và các cơ quan khác, chẳng hạn như điều dưỡng viên, đều có thể liên lạc và tham khảo ý kiến với Dịch vụ giáo dục – tâm lý. Nếu có những lo lắng chung quanh sự phát triển hoặc việc học hành của một đứa trẻ, bạn có thể trao đổi bàn thảo việc này qua cách ẩn danh với Dịch vụ giáo dục – tâm lý<em type="italic"> </em>trước khi trở thành một hồ sơ chính thức dưới hình thức của sự giới thiệu.  </p>
+    <p xml:lang="nob">Sự giới thiệu</p>
+    <p xml:lang="nob">Trước khi giới thiệu một vụ đến Dịch vụ giáo dục – tâm lý,<em type="italic"> </em>bạn nên tìm hiểu xem trường học đã dùng thử các biện pháp khác trong những khuôn khổ mà họ được quyền sử dụng chưa. Khi </p>
+    <p xml:lang="nob">nói về trẻ em trước tuổi cưỡng bách đi học, nhu cầu của đứa trẻ sẽ được thẩm định dù vườn</p>
+    <p xml:lang="nob">trẻ có sắp xếp tạo điều kiện thuận lợi hay không.</p>
+    <p xml:lang="nob"> Có thể giới thiệu một vụ đến Dịch vụ giáo dục – tâm lý<em type="italic"> </em>để được tìm hiểu và thẩm định nếu  </p>
+    <p type="listitem" xml:lang="nob">• cha mẹ, vườn trẻ và/ hoặc trường học lo lắng về một đứa trẻ không phát triển như trông đợi so với lứa tuổi  • có sự nghi ngờ về việc học sinh không có được ích lợi thích hợp của việc học hành</p>
+    <p xml:lang="nob">Học sinh hoặc cha mẹ có thể yêu cầu trường học thực hiện các cuộc tìm hiểu cần thiết để tìm xem học sinh có cần sự giảng dạy đặc biệt không, và có thể cả sự giảng dạy nào mà học sinh này cần đến.</p>
+    <p xml:lang="nob">Nhân viên giáo dục sẽ</p>
+    <p type="listitem" xml:lang="nob">• thẩm định về một học sinh có cần sự giảng dạy đặc biệt không  • thông báo cho hiệu trưởng biết khi có những nhu cầu như thế</p>
+    <p xml:lang="nob">Tốt nhất việc giới thiệu đến Dịch vụ giáo dục – tâm lý<em type="italic"> </em>nên là một sự hợp tác giữa vườn trẻ/ trường học và cha mẹ. Cha mẹ hoặc học sinh (trên 15 tuổi) phải đồng ý về việc giới thiệu đến Dịch vụ giáo dục – tâm lý. </p>
+    <p xml:lang="nob">Công xã/ công xã tỉnh quy định các nguyên tắc chỉ đạo và phương thức làm việc về cách vườn trẻ/ trường học giới thiệu đứa trẻ/ học sinh đến Dịch vụ giáo dục – tâm lý. Thông thường người ta giới thiệu đến Dịch vụ giáo dục – tâm lý bằng cách điều vào phiếu giới thiệu. Vườn trẻ/ trường học kèm theo bản báo cáo sư phạm, trong đó có diễn tả về sự phát triển của đứa trẻ/ học sinh, và những biện pháp nào đã từng được áp dụng thử.</p>
+    <p xml:lang="nob">Muốn biết thêm chi tiết về việc giới thiệu, bạn có thể liên lạc với công xã (đối với các vườn trẻ và trường học) hoặc công xã tỉnh (đối với các trường trung học phổ thông/ trường nghề).</p>
+    <p xml:lang="nob">Việc cứu xét hồ sơ</p>
+    <p xml:lang="nob"><em type="bold">Tìm hiểu  </em></p>
+    <p xml:lang="nob">Khi Dịch vụ giáo dục – tâm lý<em type="italic"> </em>nhận được sự giới thiệu, thông thường là làm sáng tỏ điều cha mẹ muốn giúp đỡ việc gì, với sự cộng tác của vườn trẻ và trường học. Trong hầu hết các trường hợp, mong ước bao hàm về việc Dịch vụ giáo dục – tâm lý sẽ soạn thảo sự thẩm định chuyên môn bằng cuộc tìm hiểu và đề nghị.  </p>
+    <p xml:lang="nob">Việc tìm hiểu có thể gồm có  •  phác họa và các biện pháp từ vườn trẻ hoặc trường học  •  lời phát biểu của các cơ quan khác, các cuộc nói chuyện, quan sát và trắc nghiệm đứa</p>
+    <p xml:lang="nob">trẻ/ học sinh.</p>
+    <p xml:lang="nob">Đối với những trẻ em trong tuổi cưỡng bách đi học, việc tìm hiểu có liên quan đến những nhu cầu của đứa trẻ.</p>
+    <p xml:lang="nob">Đối với học sinh ở trường học, việc tìm hiểu đề cập đến cả những điều kiện của học sinh đối với việc học hành lẫn những cơ hội của nhà trường để tạo điều kiện thuận lợi trong phạm vi cung ứng giảng dạy bình thường.</p>
+    <p xml:lang="nob"><em type="bold">Đề nghị  </em>Dựa vào cuộc tìm hiểu, Dịch vụ giáo dục – tâm lý<em type="italic"> </em>sẽ đưa ra đề nghị trên giấy tờ dưới hình </p>
+    <p xml:lang="nob">thức thẩm dịnh chuyên môn về những nhu cầu đặc biệt của đứa trẻ/ học sinh.</p>
+    <p xml:lang="nob">Việc thẩm định sẽ •  cho thấy đứa trẻ/ học sinh có nhu cầu cần giúp đỡ giáo dục đặc biệt theo luật giảng dạy điều 5-7 hoặc giảng dạy đặc biệt theo luật giảng dạy điều 5-1 hay không •  góp ý về loại giúp đỡ nào/ sự cung ứng giảng dạy nào nên được đưa vào.</p>
+    <p xml:lang="nob">Nếu đứa trẻ được quyền nhận sự giúp đỡ giáo dục đặc biệt theo luật giảng điều 5-7, thì việc góp ý đối với cha mẹ sẽ là một phần của sự cung ứng này.</p>
+    <p xml:lang="nob">Đối với những trẻ em trong tuổi cưỡng bách đi học, lời đề nghị trên giấy tờ của Dịch vụ giáo dục – tâm lý<em type="italic"> </em>bao hàm  </p>
+    <p type="listitem" xml:lang="nob">•  loại giúp đỡ giáo dục đặc biệt nào sẽ đem lại sự phát triển an toàn cho đứa trẻ  •  những mục tiêu thực tiễn cho sự phát triển và học hành của đứa trẻ</p>
+    <p xml:lang="nob">Đối với những học sinh ở trường học, lời đề nghị trên giấy tờ của Dịch vụ giáo dục – tâm lý<em type="italic"> </em>bao hàm việc thẩm định  </p>
+    <p type="listitem" xml:lang="nob">•  về việc người ta có thể làm giảm bớt những khó khăn mà học sinh có trong phạm vi cung ứng giảng dạy bình thường được không  •  sự giảng dạy nào sẽ đem lại cung ứng giảng dạy an toàn chắc chắn  •  những mục tiêu giảng dạy thực tiễn đối với học sinh là gì</p>
+    <p xml:lang="nob">Dịch vụ giáo dục – tâm lý sẽ tham khảo ý kiến với học sinh và/ hoặc cha mẹ trong việc thẩm định chuyên môn và sẽ chú trọng đến những điều họ nghĩ.</p>
+    <p xml:lang="nob">Khi có sự thẩm định chuyên môn (việc tìm hiểu và đề nghị), cha mẹ</p>
+    <p type="listitem" xml:lang="nob">•  của trẻ em trong tuổi cưỡng bách đi học phải đồng ý để công xã/ cơ quan điều hành vườn trẻ dùng sự thẩm định chuyên môn làm nền tảng để đưa ra một quyết định riêng</p>
+    <p xml:lang="nob">biệt, và đồng ý để công xã/ người điều hành vườn trẻ thi hành các biện pháp mà Dịch vụ giáo dục – tâm lý đã đề nghị<em type="italic"> </em> •  của những học sinh ở trường học hoặc những học sinh trên 15 tuổi phải đồng ý để cơ </p>
+    <p xml:lang="nob">quan điều hành trường/ trường học dùng sự thẩm định chuyên môn làm nền tảng để đưa ra một quyết định riêng biệt, và đồng ý để cơ quan điều hành trường/ trường học</p>
+    <p xml:lang="nob">thi hành các biện pháp mà Dịch vụ giáo dục – tâm lý đã đề nghị<em type="italic"> </em> </p>
+    <p xml:lang="nob">Về Statped</p>
+    <p xml:lang="nob">Dịch vụ giáo dục – tâm lý<em type="italic"> </em>có thể xin sự giúp đỡ giáo dục đặc biệt từ cơ quan nhà nước Statped khi cần đến.   </p>
+    <p xml:lang="nob">Statped</p>
+    <p type="listitem" xml:lang="nob">•  góp phần để trẻ em, thanh thiếu niên và người lớn có những nhu cầu giảng dạy đặc biệt có thể nhận được những cung ứng tốt phù hợp với luật giảng dạy để họ có thể trở</p>
+    <p xml:lang="nob">thành những người tham dự tích cực trong học vấn, lao động và đời sống xã hội  •  cải thiện khả năng và truyền đạt kiến thức về giảng dạy đặc biệt, và về nguyên tắc đồng đều như nhau, việc giảng dạy thích hợp và bao gồm  • cơ quan đi tiên phong để cải thiện các lãnh vực giáo dục chuyên môn về thính giác, thị</p>
+    <p xml:lang="nob">giác, ngôn ngữ/ nói, thương tổn trí não, những khó khăn tổng hợp trong việc học hành và mù điếc •  có khả năng về nguồn nhân, vật lực giảng dạy cho trẻ em, thanh thiếu niên và người</p>
+    <p xml:lang="nob">lớn có những nhu cầu đặc biệt về học hành</p>
+    <p xml:lang="nob">Muốn biết thêm chi tiết, xin xe<em type="italic">m www.statped.no.</em> </p>
+    <p xml:lang="nob">Về Trung tâm quốc gia đặc trách giảng dạy đa văn hóa (NAFO)</p>
+    <p xml:lang="nob">Không phải lúc nào cũng dễ dàng để nhận xét nguyên do khó khăn trong việc học hành khi nói đến những trẻ em/ học sinh người thiểu số. Có phải việc kém thông hiểu ngôn ngữ là thử</p>
+    <p xml:lang="nob">thách lớn nhất, hay còn có nguyên do nào khác khiến việc học hành trở nên khó khăn?</p>
+    <p xml:lang="nob">Nhiệm vụ của NAFO là góp phần để</p>
+    <p type="listitem" xml:lang="nob">•  chính sách giáo dục toàn quốc được thi hành và thực hiện ngõ hầu trẻ em, thanh thiếu niên và người lớn có thể nhận được sự giảng dạy như nhau và thích hợp với phẩm chất</p>
+    <p xml:lang="nob">cao trong một cộng đồng bao gồm. • để viễn ảnh đa văn hóa được chăm lo tại vườn trẻ và trong chương trình giảng dạy cấp cơ sở.  • để tăng thêm phẩm chất trong cung ứng giảng dạy cho học sinh người thiểu số và</p>
+    <p xml:lang="nob">trong công việc cải thiện cộng đồng đa văn hóa bao gồm tại vườn trẻ và trong chương</p>
+    <p xml:lang="nob">trình giảng dạy cơ sở.</p>
+    <p xml:lang="nob">Thầy cô giáo, những vị lãnh đạo trường học, những người điều hành vườn trẻ và trường học</p>
+    <p xml:lang="nob">và những thầy cô tại các vườn trẻ là những nhóm đối tượng chính của Trung tâm. Trung tâm</p>
+    <p xml:lang="nob">còn phụ giúp các đại học - trường cao đẳng/ các cơ quan đào tạo giáo chức trong nỗ lực cải</p>
+    <p xml:lang="nob">thiện khả năng.</p>
+    <p xml:lang="nob">Muốn biết thêm chi tiết, xin xem<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em></p>
+  </body>
+</document>
