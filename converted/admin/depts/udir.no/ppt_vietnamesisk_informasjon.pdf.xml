@@ -1,4 +1,5 @@
-<document xml:lang="vie" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2213</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="vie"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_vietnamesisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Dịch vụ giáo dục – tâm lý</p>
+<document xml:lang="vie" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2248</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="vie"/><language xml:lang="nob"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_vietnamesisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text xml:lang="ara" location="ppt_arabisk_informasjon.pdf"/><parallel_text xml:lang="fas" location="ppt_persisk_informasjon.pdf"/><parallel_text xml:lang="ckb" location="ppt_sorani_informasjon.pdf"/><parallel_text xml:lang="urd" location="ppt_urdu_informasjon.pdf"/><parallel_text xml:lang="fra" location="ppt_fransk_informasjon.pdf"/><parallel_text xml:lang="som" location="ppt_somalisk_informasjon.pdf"/><parallel_text xml:lang="tur" location="ppt_tyrkisk_informasjon.pdf"/><parallel_text xml:lang="pol" location="ppt_polsk_informasjon.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nob">Endelig versjon 19.11.2012</p>
+<p>Dịch vụ giáo dục – tâm lý</p>
 <p>Dịch vụ giáo dục – tâm lý (PP-tjenesten) là cơ quan chuyên môn và cố vấn khi nói về việc cải thiện, học hỏi và tạo thích thú cho trẻ em trong tuổi cưỡng bách đi học và học sinh ở trường cơ sở và trung học phổ thông/ trường nghề. Dịch vụ giáo dục – tâm lý còn giúp cho người lớn có nhu cầu học chương trình giáo dục cơ sở. Công việc của Dịch vụ giáo dục – tâm lý <em type="italic"></em>được ghi trong luật giảng dạy. Dịch vụ giáo dục – tâm lý là nguồn nhân lực chuyên môn đối với các vườn trẻ/ trường học để tạo điều kiện thuận lợi cho việc giảng dạy tốt hơn đối với những học sinh có các nhu cầu đặc biệt. </p>
 <p type="listitem">Dịch vụ giáo dục – tâm lý (PP-tjenesten)</p>
 <p type="listitem">có thể góp ý và hướng dẫn cho các vườn trẻ và trường học về sự lãnh đạo giáo dục trong các nhóm và môi trường học hành</p>
@@ -17,6 +18,7 @@
 <p type="listitem">việc học bằng chữ nổi dành cho người khiếm thị và bằng nhiều phương pháp khác ở trường cơ sở (điều 2-14) và ở trường trung học phổ thông/ trường nghề (điều 3-10)</p>
 <p type="listitem">việc thu nhận theo diện đặc biệt khi vào trường trung học phổ thông/ trường nghề (điều 3-1, đoạn 6)</p>
 <p type="listitem">thời gian học được nới rộng ở trường trung học phổ thông/ trường nghề (điều 3-1,   đoạn 5)</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>Nhiệm vụ</p>
 <p type="listitem">Dịch vụ giáo dục – tâm lý tìm hiểu, góp ý và hướng dẫn về trẻ em, thanh thiếu niên và người  lớn gặp những thử thách có thể đem lại hậu quả trong việc học hành. Những thử thách đó là</p>
 <p type="listitem">khó khăn về ngôn ngữ và cách nói</p>
@@ -42,10 +44,11 @@
 <p type="listitem">thông báo cho hiệu trưởng biết khi có những nhu cầu như thế</p>
 <p>Tốt nhất việc giới thiệu đến Dịch vụ giáo dục – tâm lý <em type="italic"></em>nên là một sự hợp tác giữa vườn trẻ/ trường học và cha mẹ. Cha mẹ hoặc học sinh (trên 15 tuổi) phải đồng ý về việc giới thiệu đến </p>
 <p>Dịch vụ giáo dục – tâm lý.</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>Công xã/ công xã tỉnh quy định các nguyên tắc chỉ đạo và phương thức làm việc về cách vườn trẻ/ trường học giới thiệu đứa trẻ/ học sinh đến Dịch vụ giáo dục – tâm lý. Thông thường người ta giới thiệu đến Dịch vụ giáo dục – tâm lý bằng cách điều vào phiếu giới thiệu. Vườn trẻ/ trường học kèm theo bản báo cáo sư phạm, trong đó có diễn tả về sự phát triển của đứa trẻ/ học sinh, và những biện pháp nào đã từng được áp dụng thử.</p>
 <p>Muốn biết thêm chi tiết về việc giới thiệu, bạn có thể liên lạc với công xã (đối với các vườn trẻ và trường học) hoặc công xã tỉnh (đối với các trường trung học phổ thông/ trường nghề).</p>
 <p>Việc cứu xét hồ sơ</p>
-<p><em type="bold">Tìm hi </em><em type="bold">ểu </em></p>
+<p><em type="bold">Tìm hiểu </em></p>
 <p>Khi</p>
 <p type="listitem">Dịch vụ giáo dục – tâm lýnhận được sự giới thiệu, thông thường là làm sáng tỏ điều cha mẹ muốn giúp đỡ việc gì, với sự cộng tác của vườn trẻ và trường học. Trong hầu hết các trường hợp, mong ước bao hàm về việc Dịch vụ giáo dục – tâm lý sẽ soạn thảo sự thẩm định chuyên môn bằng cuộc tìm hiểu và đề nghị.     Việc tìm hiểu có thể gồm có</p>
 <p type="listitem">phác họa và các biện pháp từ vườn trẻ hoặc trường học</p>
@@ -59,7 +62,9 @@
 <p>Nếu đứa trẻ được quyền nhận sự giúp đỡ giáo dục đặc biệt theo luật giảng điều 5-7, thì việc góp ý đối với cha mẹ sẽ là một phần của sự cung ứng này.</p>
 <p type="listitem">Đối với những trẻ em trong tuổi cưỡng bách đi học, lời đề nghị trên giấy tờ của Dịch vụ giáo dục – tâm lýbao hàm</p>
 <p type="listitem">loại giúp đỡ giáo dục đặc biệt nào sẽ đem lại sự phát triển an toàn cho đứa trẻ</p>
-<p type="listitem">những mục tiêu thực tiễn cho sự phát triển và học hành của đứa trẻ  bao hàm việc thẩm định</p>
+<p type="listitem">những mục tiêu thực tiễn cho sự phát triển và học hành của đứa trẻ</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
+<p type="listitem">Đối với những học sinh ở trường học, lời đề nghị trên giấy tờ của Dịch vụ giáo dục – tâm lýbao hàm việc thẩm định</p>
 <p type="listitem">về việc người ta có thể làm giảm bớt những khó khăn mà học sinh có trong phạm vi cung ứng giảng dạy bình thường được không</p>
 <p type="listitem">sự giảng dạy nào sẽ đem lại cung ứng giảng dạy an toàn chắc chắn</p>
 <p type="listitem">những mục tiêu giảng dạy thực tiễn đối với học sinh là gì</p>
@@ -67,6 +72,7 @@
 <p type="listitem">Khi có sự thẩm định chuyên môn (việc tìm hiểu và đề nghị), cha mẹ</p>
 <p type="listitem">của trẻ em trong tuổi cưỡng bách đi học phải đồng ý để công xã/ cơ quan điều hành vườn trẻ dùng sự thẩm định chuyên môn làm nền tảng để đưa ra một quyết định riêng  biệt, và đồng ý để công xã/ người điều hành vườn trẻ thi hành các biện pháp mà Dịch vụ giáo dục – tâm lý đã đề nghị</p>
 <p type="listitem">của những học sinh ở trường học hoặc những học sinh trên 15 tuổi phải đồng ý để cơ quan điều hành trường/ trường học dùng sự thẩm định chuyên môn làm nền tảng để đưa ra một quyết định riêng biệt, và đồng ý để cơ quan điều hành trường/ trường học  thi hành các biện pháp mà Dịch vụ giáo dục – tâm lý đã đề nghị</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>Về Statped Dịch vụ giáo dục – tâm lý <em type="italic"></em>có thể xin sự giúp đỡ giáo dục đặc biệt từ cơ quan nhà nước Statped khi cần đến. </p>
 <p type="listitem" xml:lang="nob">Statped</p>
 <p type="listitem">góp phần để trẻ em, thanh thiếu niên và người lớn có những nhu cầu giảng dạy đặc biệt có thể nhận được những cung ứng tốt phù hợp với luật giảng dạy để họ có thể trở thành những người tham dự tích cực trong học vấn, lao động và đời sống xã hội</p>
